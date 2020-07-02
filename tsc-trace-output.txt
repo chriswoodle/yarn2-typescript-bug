@@ -1,0 +1,1242 @@
+======== Resolving type reference directive 'cacheable-request', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'.
+======== Type reference directive 'cacheable-request' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts' with Package ID '@types/cacheable-request/index.d.ts@6.0.1', primary: true. ========
+======== Resolving type reference directive 'color-name', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-color-name-npm-1.1.1-00b0925070-8311db94a9.zip/node_modules/@types/color-name/index.d.ts'.
+======== Type reference directive 'color-name' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-color-name-npm-1.1.1-00b0925070-8311db94a9.zip/node_modules/@types/color-name/index.d.ts' with Package ID '@types/color-name/index.d.ts@1.1.1', primary: true. ========
+======== Resolving type reference directive 'emscripten', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts'.
+======== Type reference directive 'emscripten' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts' with Package ID '@types/emscripten/index.d.ts@1.39.4', primary: true. ========
+======== Resolving type reference directive 'glob', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts'.
+======== Type reference directive 'glob' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts' with Package ID '@types/glob/index.d.ts@7.1.2', primary: true. ========
+======== Resolving type reference directive 'http-cache-semantics', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts'.
+======== Type reference directive 'http-cache-semantics' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts' with Package ID '@types/http-cache-semantics/index.d.ts@4.0.0', primary: true. ========
+======== Resolving type reference directive 'keyv', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'.
+======== Type reference directive 'keyv' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts' with Package ID '@types/keyv/index.d.ts@3.1.1', primary: true. ========
+======== Resolving type reference directive 'minimatch', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/minimatch/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/minimatch/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/minimatch/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts'.
+======== Type reference directive 'minimatch' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts' with Package ID '@types/minimatch/index.d.ts@3.0.3', primary: true. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving type reference directive 'responselike', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'.
+======== Type reference directive 'responselike' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts' with Package ID '@types/responselike/index.d.ts@1.0.0', primary: true. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/child_process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/events.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/events.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/child_process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'net'.
+Resolving module name 'net' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/net'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/net', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/net.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/net.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/net.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/net' does not exist, skipping all lookups in it.
+Loading module 'net' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'net'.
+Resolving module name 'net' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/net'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/net', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/net.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/net.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/net' does not exist, skipping all lookups in it.
+Loading module 'net' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/child_process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'stream'.
+Resolving module name 'stream' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/stream'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/stream', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/stream.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/stream.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/stream.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/stream' does not exist, skipping all lookups in it.
+Loading module 'stream' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'stream'.
+Resolving module name 'stream' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/stream'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/stream', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/stream.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/stream.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/stream' does not exist, skipping all lookups in it.
+Loading module 'stream' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'child_process' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/cluster.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'child_process'.
+Resolving module name 'child_process' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/child_process'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/child_process', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/child_process.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/child_process.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/child_process.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/child_process' does not exist, skipping all lookups in it.
+Loading module 'child_process' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'child_process'.
+Resolving module name 'child_process' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/child_process'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/child_process', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/child_process.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/child_process.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/child_process' does not exist, skipping all lookups in it.
+Loading module 'child_process' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'child_process' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/cluster.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/cluster.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'os' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/constants.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'os'.
+Resolving module name 'os' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/os'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/os', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/os.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/os.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/os.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/os' does not exist, skipping all lookups in it.
+Loading module 'os' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'os'.
+Resolving module name 'os' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/os'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/os', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/os.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/os.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/os' does not exist, skipping all lookups in it.
+Loading module 'os' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'os' was not resolved. ========
+======== Resolving module 'crypto' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/constants.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'crypto'.
+Resolving module name 'crypto' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/crypto'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/crypto', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/crypto.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/crypto.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/crypto.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/crypto' does not exist, skipping all lookups in it.
+Loading module 'crypto' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'crypto'.
+Resolving module name 'crypto' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/crypto'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/crypto', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/crypto.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/crypto.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/crypto' does not exist, skipping all lookups in it.
+Loading module 'crypto' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'crypto' was not resolved. ========
+======== Resolving module 'fs' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/constants.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'fs'.
+Resolving module name 'fs' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/fs'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/fs', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/fs.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/fs.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/fs.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/fs' does not exist, skipping all lookups in it.
+Loading module 'fs' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'fs'.
+Resolving module name 'fs' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/fs'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/fs', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/fs.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/fs.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/fs' does not exist, skipping all lookups in it.
+Loading module 'fs' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'fs' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/crypto.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/dgram.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'dns' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/dgram.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'dns'.
+Resolving module name 'dns' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/dns'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/dns', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/dns.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/dns.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/dns.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/dns' does not exist, skipping all lookups in it.
+Loading module 'dns' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'dns'.
+Resolving module name 'dns' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/dns'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/dns', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/dns.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/dns.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/dns' does not exist, skipping all lookups in it.
+Loading module 'dns' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'dns' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/dgram.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/domain.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/fs.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/fs.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/fs.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'url'.
+Resolving module name 'url' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/url'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/url', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/url.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/url.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/url.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/url' does not exist, skipping all lookups in it.
+Loading module 'url' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'url'.
+Resolving module name 'url' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/url'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/url', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/url.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/url.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/url' does not exist, skipping all lookups in it.
+Loading module 'url' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'fs' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'fs' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'fs' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'tls' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'tls'.
+Resolving module name 'tls' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/tls'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/tls', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/tls.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/tls.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/tls.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/tls' does not exist, skipping all lookups in it.
+Loading module 'tls' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'tls'.
+Resolving module name 'tls' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/tls'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/tls', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/tls.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/tls.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/tls' does not exist, skipping all lookups in it.
+Loading module 'tls' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'tls' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/http.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/http.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'tls' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'tls' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'tls' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'http' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/inspector.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/module.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/net.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/net.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'dns' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/net.d.ts'. ========
+Resolution for module 'dns' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'dns' was not resolved. ========
+======== Resolving module 'async_hooks' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/perf_hooks.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'async_hooks'.
+Resolving module name 'async_hooks' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/async_hooks'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/async_hooks', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/async_hooks.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/async_hooks.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/async_hooks.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/async_hooks' does not exist, skipping all lookups in it.
+Loading module 'async_hooks' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'async_hooks'.
+Resolving module name 'async_hooks' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/async_hooks'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/async_hooks', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/async_hooks.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/async_hooks.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/async_hooks' does not exist, skipping all lookups in it.
+Loading module 'async_hooks' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'async_hooks' was not resolved. ========
+======== Resolving module 'tty' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'tty'.
+Resolving module name 'tty' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/tty'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/tty', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/tty.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/tty.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/tty.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/tty' does not exist, skipping all lookups in it.
+Loading module 'tty' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'tty'.
+Resolving module name 'tty' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/tty'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/tty', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/tty.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/tty.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/tty' does not exist, skipping all lookups in it.
+Loading module 'tty' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'tty' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/readline.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/readline.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'readline' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/repl.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'readline'.
+Resolving module name 'readline' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/readline'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/readline', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/readline.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/readline.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/readline.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/readline' does not exist, skipping all lookups in it.
+Loading module 'readline' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'readline'.
+Resolving module name 'readline' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/readline'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/readline', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/readline.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/readline.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/readline' does not exist, skipping all lookups in it.
+Loading module 'readline' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'readline' was not resolved. ========
+======== Resolving module 'vm' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/repl.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'vm'.
+Resolving module name 'vm' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/vm'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/vm', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/vm.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/vm.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/vm.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/vm' does not exist, skipping all lookups in it.
+Loading module 'vm' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'vm'.
+Resolving module name 'vm' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/vm'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/vm', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/vm.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/vm.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/vm' does not exist, skipping all lookups in it.
+Loading module 'vm' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'vm' was not resolved. ========
+======== Resolving module 'util' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/repl.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'util'.
+Resolving module name 'util' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/util'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/util', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/util.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/util.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/util.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/util' does not exist, skipping all lookups in it.
+Loading module 'util' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'util'.
+Resolving module name 'util' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/util'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/util', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/util.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/util.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/util' does not exist, skipping all lookups in it.
+Loading module 'util' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'util' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/stream.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'crypto' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'crypto' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'crypto' was not resolved. ========
+======== Resolving module 'dns' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'dns' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'dns' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tty.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'querystring' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/url.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'querystring'.
+Resolving module name 'querystring' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/querystring'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/querystring', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/querystring.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/querystring.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/querystring.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/querystring' does not exist, skipping all lookups in it.
+Loading module 'querystring' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'querystring'.
+Resolving module name 'querystring' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/querystring'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/querystring', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/querystring.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/querystring.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/querystring' does not exist, skipping all lookups in it.
+Loading module 'querystring' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'querystring' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/v8.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'vm' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'vm' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'vm' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/zlib.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/http.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/http.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'url'.
+Resolving module name 'url' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/url'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/url', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/url.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/url.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/url.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/url' does not exist, skipping all lookups in it.
+Loading module 'url' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'url'.
+Resolving module name 'url' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/url'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/url', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/url.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/url.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/url' does not exist, skipping all lookups in it.
+Loading module 'url' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/events.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/events.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'keyv' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'keyv'.
+Resolving module name 'keyv' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/keyv'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/keyv', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/keyv.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/keyv.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/keyv.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/keyv' does not exist, skipping all lookups in it.
+Loading module 'keyv' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'.
+======== Module name 'keyv' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts' with Package ID '@types/keyv/index.d.ts@3.1.1'. ========
+======== Resolving module 'http-cache-semantics' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http-cache-semantics'.
+Resolving module name 'http-cache-semantics' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http-cache-semantics'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http-cache-semantics', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/http-cache-semantics.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/http-cache-semantics.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/http-cache-semantics.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http-cache-semantics' does not exist, skipping all lookups in it.
+Loading module 'http-cache-semantics' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts'.
+======== Module name 'http-cache-semantics' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts' with Package ID '@types/http-cache-semantics/index.d.ts@4.0.0'. ========
+======== Resolving module 'responselike' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'responselike'.
+Resolving module name 'responselike' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/responselike'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/responselike', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/responselike.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/responselike.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/responselike.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/responselike' does not exist, skipping all lookups in it.
+Loading module 'responselike' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'.
+======== Module name 'responselike' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts' with Package ID '@types/responselike/index.d.ts@1.0.0'. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/events.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/events.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/http.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'http'.
+Resolving module name 'http' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/http'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/http', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/http.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/http.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/http' does not exist, skipping all lookups in it.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'stream'.
+Resolving module name 'stream' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/stream'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/stream', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/stream.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/stream.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/stream.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/stream' does not exist, skipping all lookups in it.
+Loading module 'stream' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'stream'.
+Resolving module name 'stream' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/stream'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/stream', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/stream.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/stream.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/stream' does not exist, skipping all lookups in it.
+Loading module 'stream' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/events.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'events'.
+Resolving module name 'events' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/events'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/events', target file type 'JavaScript'.
+File 'C:/Users/Super/git/ts-bug/events.js' does not exist.
+File 'C:/Users/Super/git/ts-bug/events.jsx' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/events' does not exist, skipping all lookups in it.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'minimatch' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+'baseUrl' option is set to 'C:/Users/Super/git/ts-bug', using this value to resolve non-relative module name 'minimatch'.
+Resolving module name 'minimatch' relative to base url 'C:/Users/Super/git/ts-bug' - 'C:/Users/Super/git/ts-bug/minimatch'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/minimatch', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/minimatch.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/minimatch.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/minimatch.d.ts' does not exist.
+Directory 'C:/Users/Super/git/ts-bug/minimatch' does not exist, skipping all lookups in it.
+Loading module 'minimatch' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts'.
+======== Module name 'minimatch' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts' with Package ID '@types/minimatch/index.d.ts@3.0.3'. ========
+.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts(53,33): error TS2304: Cannot find name 'WebGLRenderingContext'.
+.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts(67,28): error TS2304: Cannot find name 'MessageEvent'.
+Internal Error: spawn tsc -b --traceResolution ENOENT
+    at notFoundError (C:\Users\Super\git\ts-bug\.yarn\cache\cross-spawn-npm-7.0.3-e4ff3e65b3-51f10036f5.zip\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\Super\git\ts-bug\.yarn\cache\cross-spawn-npm-7.0.3-e4ff3e65b3-51f10036f5.zip\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\Super\git\ts-bug\.yarn\cache\cross-spawn-npm-7.0.3-e4ff3e65b3-51f10036f5.zip\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+======== Resolving type reference directive 'cacheable-request', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/cacheable-request/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'.
+======== Type reference directive 'cacheable-request' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts' with Package ID '@types/cacheable-request/index.d.ts@6.0.1', primary: true. ========
+======== Resolving type reference directive 'color-name', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/color-name/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-color-name-npm-1.1.1-00b0925070-8311db94a9.zip/node_modules/@types/color-name/index.d.ts'.
+======== Type reference directive 'color-name' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-color-name-npm-1.1.1-00b0925070-8311db94a9.zip/node_modules/@types/color-name/index.d.ts' with Package ID '@types/color-name/index.d.ts@1.1.1', primary: true. ========
+======== Resolving type reference directive 'emscripten', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/emscripten/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts'.
+======== Type reference directive 'emscripten' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts' with Package ID '@types/emscripten/index.d.ts@1.39.4', primary: true. ========
+======== Resolving type reference directive 'glob', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/glob/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts'.
+======== Type reference directive 'glob' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts' with Package ID '@types/glob/index.d.ts@7.1.2', primary: true. ========
+======== Resolving type reference directive 'http-cache-semantics', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/http-cache-semantics/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts'.
+======== Type reference directive 'http-cache-semantics' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts' with Package ID '@types/http-cache-semantics/index.d.ts@4.0.0', primary: true. ========
+======== Resolving type reference directive 'keyv', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/keyv/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'.
+======== Type reference directive 'keyv' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts' with Package ID '@types/keyv/index.d.ts@3.1.1', primary: true. ========
+======== Resolving type reference directive 'minimatch', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/minimatch/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/minimatch/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/minimatch/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts'.
+======== Type reference directive 'minimatch' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts' with Package ID '@types/minimatch/index.d.ts@3.0.3', primary: true. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving type reference directive 'responselike', containing file 'C:/Users/Super/git/ts-bug/__inferred type names__.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/responselike/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'.
+======== Type reference directive 'responselike' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts' with Package ID '@types/responselike/index.d.ts@1.0.0', primary: true. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/child_process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/child_process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'net' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'net' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/child_process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'stream' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'stream' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'child_process' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/cluster.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'child_process' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'child_process' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'child_process' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/cluster.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/cluster.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'os' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/constants.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'os' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'os' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'os' was not resolved. ========
+======== Resolving module 'crypto' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/constants.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'crypto' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'crypto' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'crypto' was not resolved. ========
+======== Resolving module 'fs' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/constants.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'fs' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'fs' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'fs' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/crypto.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/dgram.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'dns' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/dgram.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'dns' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'dns' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'dns' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/dgram.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/domain.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/fs.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/fs.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/fs.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'url' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'url' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'fs' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'fs' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'fs' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'tls' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'tls' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'tls' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'tls' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/http2.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'tls' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'tls' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'tls' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'http' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/https.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/inspector.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/module.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/net.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/net.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'dns' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/net.d.ts'. ========
+Resolution for module 'dns' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'dns' was not resolved. ========
+======== Resolving module 'async_hooks' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/perf_hooks.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'async_hooks' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'async_hooks' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'async_hooks' was not resolved. ========
+======== Resolving module 'tty' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/process.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'tty' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'tty' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'tty' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/readline.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/readline.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'readline' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/repl.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'readline' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'readline' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'readline' was not resolved. ========
+======== Resolving module 'vm' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/repl.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'vm' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'vm' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'vm' was not resolved. ========
+======== Resolving module 'util' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/repl.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'util' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'util' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'util' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/stream.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'crypto' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'crypto' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'crypto' was not resolved. ========
+======== Resolving module 'dns' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'dns' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'dns' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tls.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'net' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/tty.d.ts'. ========
+Resolution for module 'net' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'net' was not resolved. ========
+======== Resolving module 'querystring' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/url.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'querystring' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'querystring' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'querystring' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/v8.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'vm' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'vm' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'vm' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'events' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/worker_threads.d.ts'. ========
+Resolution for module 'url' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/zlib.d.ts'. ========
+Resolution for module 'stream' was found in cache from location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'url' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'url' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'url' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'url' was not resolved. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'keyv' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'keyv' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'.
+======== Module name 'keyv' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts' with Package ID '@types/keyv/index.d.ts@3.1.1'. ========
+======== Resolving module 'http-cache-semantics' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'http-cache-semantics' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts'.
+======== Module name 'http-cache-semantics' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-http-cache-semantics-npm-4.0.0-000c9dc8e0-e16fae56d4.zip/node_modules/@types/http-cache-semantics/index.d.ts' with Package ID '@types/http-cache-semantics/index.d.ts@4.0.0'. ========
+======== Resolving module 'responselike' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-cacheable-request-npm-6.0.1-067bf7714d-3dae802a08.zip/node_modules/@types/cacheable-request/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'responselike' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index' that references 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index' does not exist.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index', target file type 'TypeScript'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.ts' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.tsx' does not exist.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'.
+======== Module name 'responselike' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts' with Package ID '@types/responselike/index.d.ts@1.0.0'. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-keyv-npm-3.1.1-779a80f2c7-3aaf557d5b.zip/node_modules/@types/keyv/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'http' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'http' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'http' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'http' was not resolved. ========
+======== Resolving module 'stream' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-responselike-npm-1.0.0-85dd08af42-e6e6613c80.zip/node_modules/@types/responselike/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'stream' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'stream' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'stream' was not resolved. ========
+======== Resolving type reference directive 'node', containing file 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts', root directory 'C:/Users/Super/git/ts-bug/node_modules/@types'. ========
+Resolving with primary search path 'C:/Users/Super/git/ts-bug/node_modules/@types'.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/node_modules/@types/node/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'C:/Users/Super/git/ts-bug/node_modules/@types/node/index.d.ts'.
+'package.json' has a 'typesVersions' entry '>=3.7.0-0' that matches compiler version '3.9.6', looking for a pattern to match module name 'index.d.ts'.
+Module name 'index.d.ts', matched pattern '*'.
+Trying substitution 'ts3.7/*', candidate module location: 'ts3.7/index.d.ts'.
+File 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/node_modules/@types/node/ts3.7/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts'.
+======== Type reference directive 'node' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-node-npm-13.13.12-9f605d6bd1-247f27e086.zip/node_modules/@types/node/ts3.7/index.d.ts' with Package ID '@types/node/ts3.7/index.d.ts@13.13.12', primary: true. ========
+======== Resolving module 'events' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'events' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module 'events' from 'node_modules' folder, target file type 'JavaScript'.
+======== Module name 'events' was not resolved. ========
+======== Resolving module 'minimatch' from 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-glob-npm-7.1.2-b4ef4d23ef-28bc8b1c10.zip/node_modules/@types/glob/index.d.ts'. ========
+Explicitly specified module resolution kind: 'NodeJs'.
+Loading module 'minimatch' from 'node_modules' folder, target file type 'TypeScript'.
+Loading module as file / folder, candidate module location 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch', target file type 'DtsOnly'.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch.d.ts' does not exist.
+Found 'package.json' at 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+File 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts' exist - use it as a name resolution result.
+Resolving real path for 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts', result 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts'.
+======== Module name 'minimatch' was successfully resolved to 'C:/Users/Super/git/ts-bug/.yarn/cache/@types-minimatch-npm-3.0.3-c8b0625f84-672ccdac19.zip/node_modules/@types/minimatch/index.d.ts' with Package ID '@types/minimatch/index.d.ts@3.0.3'. ========
+.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts(53,33): error TS2304: Cannot find name 'WebGLRenderingContext'.
+.yarn/cache/@types-emscripten-npm-1.39.4-4d03380faa-b848421e25.zip/node_modules/@types/emscripten/index.d.ts(67,28): error TS2304: Cannot find name 'MessageEvent'.
+Internal Error: spawn tsc -b --traceResolution ENOENT
+    at notFoundError (C:\Users\Super\git\ts-bug\.yarn\cache\cross-spawn-npm-7.0.3-e4ff3e65b3-51f10036f5.zip\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (C:\Users\Super\git\ts-bug\.yarn\cache\cross-spawn-npm-7.0.3-e4ff3e65b3-51f10036f5.zip\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (C:\Users\Super\git\ts-bug\.yarn\cache\cross-spawn-npm-7.0.3-e4ff3e65b3-51f10036f5.zip\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
